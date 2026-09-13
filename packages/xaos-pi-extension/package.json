@@ -1,0 +1,9 @@
+{
+  "name": "@xaos/pi-extension",
+  "private": true,
+  "version": "0.1.0",
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}
